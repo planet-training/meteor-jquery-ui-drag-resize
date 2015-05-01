@@ -1,0 +1,22 @@
+{
+  "name": "meteor-jquery-ui-resize",
+  "version": "0.0.0",
+  "homepage": "https://github.com/planet-training/meteor-jquery-ui-drag-resize",
+  "authors": [
+    "Dominic Garms <djgarms@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "~1.11.4"
+  },
+  "devDependencies": {
+    "jquery-ui": "~1.11.4"
+  }
+}
