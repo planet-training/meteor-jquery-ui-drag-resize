@@ -11,7 +11,7 @@ JQuery-Ui drag and resize plugin packaged for Meteor
 ## Install package
 meteor add planettraining:jquery-ui-drag-resize
 
-## Important notice for resizable
+## Important for resizable
 This package is ```JS```only, so you need to grab your custom theme of jQuery-UI from the website - otherwise you won't see any resizable handle. This is a copy from the default jquery-ui:
 ```
 .ui-widget-overlay {
